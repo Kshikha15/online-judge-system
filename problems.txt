@@ -1,1 +1,4 @@
 Sum Of Two Numbers|Return sum of given numbers|Easy|5,10|15
+sum of two num|integer sum'|easy|5,10|15
+sum of two numbers|sum of integers|easy|5,10|15
+average of two number|average of two number|easy|2,4|3
